@@ -1,0 +1,2 @@
+- Prefers beginner-friendly explanations of programming concepts, using simple analogies and concrete input/output examples. Confidence: 0.9
+- Prefers hands-on workflow: have code added to an existing file, then compile and run it to verify the result. Confidence: 0.85
